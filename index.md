@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
 
 Big Data: PySpark (Databricks)
 [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
@@ -32,7 +33,6 @@ Big Data: PySpark (Databricks)
 [Machine Learning with PySpark (Random Forests)](Machine Learning with PySpark (Random Forests).html)
 [Machine Learning with PySpark (Recommender Systems)](Machine Learning with PySpark (Recommender Systems).html)
 [Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
