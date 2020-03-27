@@ -26,13 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Big Data: PySpark (Databricks)
-[Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
-[Machine Learning with PySpark (Linear Regression)](Machine Learning with PySpark (Linear Regression).html)
-[Machine Learning with PySpark (Logistic Regression)](Machine Learning with PySpark (Logistic Regression).html)
-[Machine Learning with PySpark (Random Forests)](Machine Learning with PySpark (Random Forests).html)
-[Machine Learning with PySpark (Recommender Systems)](Machine Learning with PySpark (Recommender Systems).html)
-[Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
+### Big Data: PySpark (Databricks)
+- [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
+- [Machine Learning with PySpark (Linear Regression)](Machine Learning with PySpark (Linear Regression).html)
+- [Machine Learning with PySpark (Logistic Regression)](Machine Learning with PySpark (Logistic Regression).html)
+- [Machine Learning with PySpark (Random Forests)](Machine Learning with PySpark (Random Forests).html)
+- [Machine Learning with PySpark (Recommender Systems)](Machine Learning with PySpark (Recommender Systems).html)
+- [Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
