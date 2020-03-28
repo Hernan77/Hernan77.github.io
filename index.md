@@ -1,5 +1,6 @@
 
-```{r, results='hide'}
+<!-- This is commented out... 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Hernan77/Hernan77.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,7 +28,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-```
+-->
 
 ### Big Data: PySpark (Databricks)
 - [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
@@ -37,7 +38,7 @@ Syntax highlighted code block
 - [Machine Learning with PySpark (Recommender Systems)](Machine Learning with PySpark (Recommender Systems).html)
 - [Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
 
-```{r, results='hide'}
+<!-- This is commented out... 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -47,5 +48,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-```
+-->
 
