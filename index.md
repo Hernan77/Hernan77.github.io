@@ -38,6 +38,7 @@ Syntax highlighted code block
 - [Machine Learning with PySpark (Random Forests)](Machine Learning with PySpark (Random Forests).html)
 - [Machine Learning with PySpark (Recommender Systems)](Machine Learning with PySpark (Recommender Systems).html)
 - [Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
+- [Machine Learning with PySpark (Natural Language Processing)](Machine Learning with PySpark (Natural Language Processing).html)
 
 <!-- This is commented out... 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
