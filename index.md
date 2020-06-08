@@ -31,9 +31,10 @@ Syntax highlighted code block
 ```
 -->
 ###
-- [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started].(Downloading Spark and Getting Started.html)
 
 ### Big Data: PySpark (Databricks)
+- [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started)].(Downloading Spark and Getting Started.html)
+Downloading Spark and Getting Started.html
 - [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
 - [Machine Learning with PySpark (Linear Regression)](Machine Learning with PySpark (Linear Regression).html)
 - [Machine Learning with PySpark (Logistic Regression)](Machine Learning with PySpark (Logistic Regression).html)
