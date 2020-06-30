@@ -42,7 +42,7 @@ Syntax highlighted code block
 - [Machine Learning with PySpark (Natural Language Processing)](Machine Learning with PySpark (Natural Language Processing).html)
 
 ### Optimization: Metaheuristics (Databricks)
-- 
+- [Optimizing Travelling Salesman and Vehicle Routing Problems (Parallel SA)](Optimizing Travelling Salesman and Vehicle Routing Problems (Parallel SA).html)
 
 <!-- This is commented out... 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
