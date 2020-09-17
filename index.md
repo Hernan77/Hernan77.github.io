@@ -44,6 +44,8 @@ Syntax highlighted code block
 
 ### Optimization: Metaheuristics (Databricks)
 - [Optimizing Travelling Salesman and Vehicle Routing Problems (Parallel SA)](Optimizing Travelling Salesman and Vehicle Routing Problems (Parallel SA).html)
+- [Parallel Simulated Annealing MASTER (Udemy - Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_MASTER.html)
+- [Parallel Simulated Annealing SLAVE (Udemy - Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_SLAVE.html)
 
 <!-- This is commented out... 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
