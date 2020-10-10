@@ -48,7 +48,7 @@ Syntax highlighted code block
 - [Parallel Simulated Annealing SLAVE (Udemy Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_SLAVE.html)
 - [Parallel Simulated Annealing Using UDF (Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SIMULATED_ANNEALING_USING_UDF.html)
 
-<!-- This is commented out... 
+<!-- This is  commented out... 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
