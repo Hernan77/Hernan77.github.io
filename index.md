@@ -32,6 +32,7 @@ Syntax highlighted code block
 -->
 
 ### Big Data: PySpark (Databricks)
+- [Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark)](Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark).html)
 - [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started)](Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started).html)
 - [Learning Spark Lightning Fast Data Analysis (Programming with RDDs)](Learning Spark Lightning Fast Data Analysis (Programming with RDDs).html)
 - [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
