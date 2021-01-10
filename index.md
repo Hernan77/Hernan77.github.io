@@ -1,5 +1,7 @@
 ## PICOS'S MODELS AND STUFF
 
+<p><img src="Picos.jpg" alt="alt text"></p>
+
 <!-- This is commented out... 
 
 ## Welcome to GitHub Pages
