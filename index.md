@@ -39,6 +39,7 @@ Syntax highlighted code block
 - [Learning Spark Lightning Fast Data Analysis (Programming with RDDs)](Learning Spark Lightning Fast Data Analysis (Programming with RDDs).html)
 - [Machine Learning with PySpark (Evolution of Data)](Machine Learning with PySpark (Evolution of Data).html)
 - [Machine Learning with PySpark (Introduction to Machine Learning)](Machine Learning with PySpark (Introduction to Machine Learning).html)
+- [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
 - [Machine Learning with PySpark (Linear Regression)](Machine Learning with PySpark (Linear Regression).html)
 - [Machine Learning with PySpark (Logistic Regression)](Machine Learning with PySpark (Logistic Regression).html)
 - [Machine Learning with PySpark (Random Forests)](Machine Learning with PySpark (Random Forests).html)
