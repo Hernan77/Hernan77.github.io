@@ -42,6 +42,7 @@ Syntax highlighted code block
 - [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
 - [Machine Learning with PySpark (Linear Regression)](Machine Learning with PySpark (Linear Regression).html)
 - [Machine Learning with PySpark (Logistic Regression)](Machine Learning with PySpark (Logistic Regression).html)
+- [Machine Learning with PySpark (Random Forests)](Machine Learning with PySpark (Random Forests).html)
 - [Machine Learning with PySpark (Recommender Systems)](Machine Learning with PySpark (Recommender Systems).html)
 - [Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
 - [Machine Learning with PySpark (Natural Language Processing)](Machine Learning with PySpark (Natural Language Processing).html)
