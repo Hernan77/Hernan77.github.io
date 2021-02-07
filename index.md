@@ -41,6 +41,7 @@ Syntax highlighted code block
 
 ### Data Science: Python for Data Science and Machine Learning Bootcamp
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Python Crash Course)](01-Python Crash Course.html)
+- [Udemy: Python for Data Science and Machine Learning Bootcamp (Python Crash Course Exercises)](01-Python Crash Course Exercises.html)
 
 ### Data Science: Machine Learning with PySpark
 - [Machine Learning with PySpark (Evolution of Data)](Machine Learning with PySpark (Evolution of Data).html)
