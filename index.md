@@ -40,6 +40,7 @@ Syntax highlighted code block
 - [Learning Spark Lightning Fast Data Analysis (Programming with RDDs)](Learning Spark Lightning Fast Data Analysis (Programming with RDDs).html)
 
 ### Data Science: Python for Data Science and Machine Learning Bootcamp
+- [Udemy: Python for Data Science and Machine Learning Bootcamp (Python Crash Course)](01-Python Crash Course.html)
 
 ### Data Science: Machine Learning with PySpark
 - [Machine Learning with PySpark (Evolution of Data)](Machine Learning with PySpark (Evolution of Data).html)
