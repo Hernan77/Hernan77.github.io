@@ -58,6 +58,9 @@ Syntax highlighted code block
 - [Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
 - [Machine Learning with PySpark (Natural Language Processing)](Machine Learning with PySpark (Natural Language Processing).html)
 
+### Data Science: Beginning MLOps with MLFlow
+- [Beginning MLOPs with MLFlow (Getting Started Data Analysis)](Beginning MLOps with MLFlow (Getting Started Data Analysis).html)
+
 ### Optimization: Metaheuristics (Databricks)
 - [Parallel Simulated Annealing MASTER (Udemy Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_MASTER.html)
 - [Parallel Simulated Annealing SLAVE (Udemy Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_SLAVE.html)
