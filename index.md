@@ -60,6 +60,7 @@ Syntax highlighted code block
 
 ### Data Science: Beginning MLOps with MLFlow
 - [Beginning MLOPs with MLFlow (Getting Started Data Analysis)](Beginning MLOps with MLFlow (Getting Started Data Analysis).html)
+- [Beginning MLOPs with MLFlow (Building Models)](Beginning MLOps with MLFlow (Building Models).html)
 
 ### Optimization: Metaheuristics (Databricks)
 - [Parallel Simulated Annealing MASTER (Udemy Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_MASTER.html)
