@@ -1,6 +1,6 @@
 ## PICOS'S MODELS AND STUFF
 
-<p><img src="Picos.JPEG" alt="alt text"></p>
+<p><img style="width:auto; height:250px" src="Picos.JPEG" alt="alt text"></p>
 
 <!-- This is commented out... 
 
