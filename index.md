@@ -48,15 +48,15 @@ Syntax highlighted code block
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)-->
 
 ### Data Science: Machine Learning with PySpark
-- [Machine Learning with PySpark (Evolution of Data)](Machine Learning with PySpark (Evolution of Data).html)
-- [Machine Learning with PySpark (Introduction to Machine Learning)](Machine Learning with PySpark (Introduction to Machine Learning).html)
-- [Machine Learning with PySpark (Data Processing)](Machine Learning with PySpark (Data Processing).html)
-- [Machine Learning with PySpark (Linear Regression)](Machine Learning with PySpark (Linear Regression).html)
-- [Machine Learning with PySpark (Logistic Regression)](Machine Learning with PySpark (Logistic Regression).html)
-- [Machine Learning with PySpark (Random Forests)](Machine Learning with PySpark (Random Forests).html)
-- [Machine Learning with PySpark (Recommender Systems)](Machine Learning with PySpark (Recommender Systems).html)
-- [Machine Learning with PySpark (Clustering)](Machine Learning with PySpark (Clustering).html)
-- [Machine Learning with PySpark (Natural Language Processing)](Machine Learning with PySpark (Natural Language Processing).html)
+- [1.Evolution of Data](Evolution of Data.html)
+- [2.Introduction to Machine Learning](Introduction to Machine Learning.html)
+- [3.Data Processing](Data Processing.html)
+- [4.Linear Regression](Linear Regression.html)
+- [5.Logistic Regression](Logistic Regression.html)
+- [6.Random Forests](Random Forests.html)
+- [7.Recommender Systems](Recommender Systems.html)
+- [8.Clustering](Clustering.html)
+- [9.Natural Language Processing](Natural Language Processing.html)
 
 ### Data Science: Beginning Apache Spark Using Azure Databricks
 - [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databrcks/Introduction_To_Large_Scale_Data_Analytics.html)
