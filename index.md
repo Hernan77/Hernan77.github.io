@@ -34,7 +34,7 @@ Syntax highlighted code block
 -->
 
 
-### Big Data: Learning Spark Lightning Fast Data Analysis
+### Learning Spark Lightning Fast Data Analysis
 - [Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark)](Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark).html)
 - [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started)](Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started).html)
 - [Learning Spark Lightning Fast Data Analysis (Programming with RDDs)](Learning Spark Lightning Fast Data Analysis (Programming with RDDs).html)
@@ -47,7 +47,7 @@ Syntax highlighted code block
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Operations)](03-Numpy Operations.html)
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)-->
 
-### Data Science: Machine Learning with PySpark
+### Machine Learning with PySpark
 - [1.Evolution of Data](Machine Learning with Spark/Evolution_of_Data.html)
 - [2.Introduction to Machine Learning](Machine Learning with Spark/Introduction_to_Machine_Learning.html)
 - [3.Data Processing](Machine Learning with Spark/Data_Processing.html)
@@ -58,14 +58,14 @@ Syntax highlighted code block
 - [8.Clustering](Machine Learning with Spark/Clustering.html)
 - [9.Natural Language Processing](Machine Learning with Spark/Natural_Language_Processing.html)
 
-### Data Science: Beginning Apache Spark Using Azure Databricks
+### Beginning Apache Spark Using Azure Databricks
 - [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databrcks/Introduction_To_Large_Scale_Data_Analytics.html)
 
-### Data Science: Beginning MLOps with MLFlow
+### Beginning MLOps with MLFlow
 - [Beginning MLOPs with MLFlow (Getting Started Data Analysis)](Beginning MLOps with MLFlow (Getting Started Data Analysis).html)
 - [Beginning MLOPs with MLFlow (Building Models)](Beginning MLOps with MLFlow (Building Models).html)
 
-### Optimization: Mathematical Programming (Lancaster Univeristy)
+### Mathematical Programming (Lancaster Univeristy)
 - [1.Syllabus and Introduction](Mathematical Programming (Lancaster University)/Syllabus_and_Introduction.html)
 - [2.LINDO Tutorial](Mathematical Programming (Lancaster University)/LINDO_Tutorial.html)
 - [3.Mathematical Programming Using LINDO](Mathematical Programming (Lancaster University)/Mathematical_Programming_Using_LINDO.html)
