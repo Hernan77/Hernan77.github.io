@@ -48,7 +48,15 @@ Syntax highlighted code block
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)-->
 
 ### Data Science: Machine Learning with PySpark
-
+- [1.Evolution of Data](Machine Learning with Spark/Evolution_of_Data.html)
+- [2.Introduction to Machine Learning](Machine Learning with Spark/Introduction_to_Machine_Learning.html)
+- [3.Data Processing](Machine Learning with Spark/Data_Processing.html)
+- [4.Linear Regression](Machine Learning with Spark/Linear_Regression.html)
+- [5.Logistic Regression](Machine Learning with Spark/Logistic_Regression.html)
+- [6.Random Forests](Machine Learning with Spark/Random_Forests.html)
+- [7.Recommender Systems](Machine Learning with Spark/Recommender_Systems.html)
+- [8.Clustering](Machine Learning with Spark/Clustering.html)
+- [9.Natural Language Processing](Machine Learning with Spark/Natural_Language_Processing.html)
 
 ### Data Science: Beginning Apache Spark Using Azure Databricks
 - [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databrcks/Introduction_To_Large_Scale_Data_Analytics.html)
