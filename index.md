@@ -39,13 +39,13 @@ Syntax highlighted code block
 - [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started)](Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started).html)
 - [Learning Spark Lightning Fast Data Analysis (Programming with RDDs)](Learning Spark Lightning Fast Data Analysis (Programming with RDDs).html)
 
-### Data Science: Python for Data Science and Machine Learning Bootcamp
+<!--### Data Science: Python for Data Science and Machine Learning Bootcamp
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Python Crash Course)](01-Python Crash Course.html)
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Python Crash Course Exercises)](01-Python Crash Course Exercises.html)
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (NumPy Arrays)](01-NumPy Arrays.html)
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Indexing and Selection)](02-Numpy Indexing and Selection.html)
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Operations)](03-Numpy Operations.html)
-- [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)
+- [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)-->
 
 ### Data Science: Machine Learning with PySpark
 - [Machine Learning with PySpark (Evolution of Data)](Machine Learning with PySpark (Evolution of Data).html)
@@ -65,13 +65,18 @@ Syntax highlighted code block
 - [Beginning MLOPs with MLFlow (Getting Started Data Analysis)](Beginning MLOps with MLFlow (Getting Started Data Analysis).html)
 - [Beginning MLOPs with MLFlow (Building Models)](Beginning MLOps with MLFlow (Building Models).html)
 
-### Optimization: Metaheuristics (Databricks)
+### Optimization: Mathematical Programming (Lancaster Univeristy)
+- [1.Syllabus and Introduction](Mathematical Programming (Lancaster University)/Syllabus_and_Introduction.html)
+- [2.LINDO Tutorial](Mathematical Programming (Lancaster University)/LINDO_Tutorial.html)
+- [3.Mathematical Programming Using LINDO](Mathematical Programming (Lancaster University)/Mathematical_Programming_Using_LINDO.html)
+
+<!--### Optimization: Metaheuristics (Databricks)
 - [Parallel Simulated Annealing MASTER (Udemy Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_MASTER.html)
 - [Parallel Simulated Annealing SLAVE (Udemy Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_SLAVE.html)
-- [Parallel Simulated Annealing Using UDF (Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SIMULATED_ANNEALING_USING_UDF.html)
+- [Parallel Simulated Annealing Using UDF (Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SIMULATED_ANNEALING_USING_UDF.html)-->
 
-### Discrete Even Simulation: SimPy
-- [SimPy (Introduction)](SimPy_Introduction.html)
+<!-### Discrete Even Simulation: SimPy
+- [SimPy (Introduction)](SimPy_Introduction.html)-->
 
 <!-- This is  commented out... 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
