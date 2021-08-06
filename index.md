@@ -47,6 +47,9 @@ Syntax highlighted code block
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Operations)](03-Numpy Operations.html)
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)-->
 
+### Beginning Apache Spark Using Azure Databricks
+- [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databrcks/Introduction_To_Large_Scale_Data_Analytics.html)
+
 ### Machine Learning with PySpark
 - [1.Evolution of Data](Machine Learning with Spark/Evolution_of_Data.html)
 - [2.Introduction to Machine Learning](Machine Learning with Spark/Introduction_to_Machine_Learning.html)
@@ -57,9 +60,6 @@ Syntax highlighted code block
 - [7.Recommender Systems](Machine Learning with Spark/Recommender_Systems.html)
 - [8.Clustering](Machine Learning with Spark/Clustering.html)
 - [9.Natural Language Processing](Machine Learning with Spark/Natural_Language_Processing.html)
-
-### Beginning Apache Spark Using Azure Databricks
-
 
 ### Beginning MLOps with MLFlow
 - [Beginning MLOPs with MLFlow (Getting Started Data Analysis)](Beginning MLOps with MLFlow (Getting Started Data Analysis).html)
