@@ -48,7 +48,7 @@ Syntax highlighted code block
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)-->
 
 ### Beginning Apache Spark Using Azure Databricks
-- [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databrcks/Introduction_To_Large_Scale_Data_Analytics.html)
+- [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databricks/Introduction_To_Large_Scale_Data_Analytics.html)
 
 ### Machine Learning with PySpark
 - [1.Evolution of Data](Machine Learning with Spark/Evolution_of_Data.html)
