@@ -59,7 +59,7 @@ Syntax highlighted code block
 - [9.Natural Language Processing](Machine Learning with Spark/Natural_Language_Processing.html)
 
 ### Beginning Apache Spark Using Azure Databricks
-- [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databrcks/Introduction_To_Large_Scale_Data_Analytics.html)
+
 
 ### Beginning MLOps with MLFlow
 - [Beginning MLOPs with MLFlow (Getting Started Data Analysis)](Beginning MLOps with MLFlow (Getting Started Data Analysis).html)
