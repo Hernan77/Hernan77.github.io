@@ -35,7 +35,7 @@ Syntax highlighted code block
 
 
 ### Discrete Event Simulation Using Extendsim 8
-- [1.Introduction to Modeling and Simulation3](Discrete Event Simulation Using Extendsim 8/Introduction_to_Modeling_and_Simulation.html)
+- [1.Introduction to Modeling and Simulation](Discrete Event Simulation Using Extendsim 8/Introduction_to_Modeling_and_Simulation.html)
 
 ### Learning Spark Lightning Fast Data Analysis
 - [Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark)](Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark).html)
