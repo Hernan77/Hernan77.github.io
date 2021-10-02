@@ -35,8 +35,7 @@ Syntax highlighted code block
 
 
 ### Discrete Event Simulation Using Extendsim 8
-- [2.LINDO Tutorial](Mathematical Programming (Lancaster University)/LINDO_Tutorial.html)
-- [1.Introduction to Modeling and Simulation2](Discrete Event Simulation Using Extendsim 8/Introduction_to_Modeling_and_Simulation.html)
+- [1.Introduction to Modeling and Simulation](Discrete Event Simulation Using Extendsim 8/Introduction_to_Modeling_and_Simulation.html)
 
 ### Learning Spark Lightning Fast Data Analysis
 - [Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark)](Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark).html)
