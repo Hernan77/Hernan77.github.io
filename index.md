@@ -38,6 +38,12 @@ Syntax highlighted code block
 - [1.Introduction to Modeling and Simulation](Discrete Event Simulation Using Extendsim 8/Introduction_to_Modeling_and_Simulation.html)
 - [2.Step by Step Discrete Event Simulation](Discrete Event Simulation Using Extendsim 8/Step_by_Step_Discrete_Event_Simulation.html)
 
+### Discrete Event Simulation Using SimPy
+- [1.Installation and Tutorial](Discrete Event Simulation Using SimPy/SimPy_Installation_and_Tutorial.html)
+- [2.Topical Guides](Discrete Event Simulation Using SimPy/SimPy_Topical_Guides.html)
+- [3.Example: Bank](Discrete Event Simulation Using SimPy/SimPy_Example_Bank.html)
+- [4.Example: Movies](Discrete Event Simulation Using SimPy/SimPy_Example_Movies.html)
+
 ### Learning Spark Lightning Fast Data Analysis
 - [Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark)](Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark).html)
 - [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started)](Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started).html)
