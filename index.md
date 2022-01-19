@@ -44,6 +44,10 @@ Syntax highlighted code block
 - [3.Example: Bank](Discrete Event Simulation Using SimPy/SimPy_Example_Bank.html)
 - [4.Example: Movies](Discrete Event Simulation Using SimPy/SimPy_Example_Movies.html)
 
+### Python Data Analytics
+- [Python Data Analytics (An_Introduction_to_Data_Analysis)](An_Introduction_to_Data_Analysis.html)
+- [Python Data Analytics (Introduction_to_the_Python_World)](Introduction_to_the_Python_World.html)
+
 ### Learning Spark Lightning Fast Data Analysis
 - [Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark)](Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark).html)
 - [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started)](Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started).html)
