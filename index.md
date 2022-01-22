@@ -32,9 +32,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
+### Lancaster University Mathematical Programming
+- [1.Intrduction and Problem Formulation](Lancaster University Mathematical Programming/Introduction_and_Problem_Formulation.html)
 
+### Python Data Analytics
+- [1.An Introduction to Data Analysis](Python Data Analytics/An_Introduction_to_Data_Analysis.html)
+- [2.Introduction to the Python World](Python Data Analytics/Introduction_to_the_Python_World.html)
 
-### Discrete Event Simulation Using Extendsim 8
+<!--### Discrete Event Simulation Using Extendsim 8
 - [1.Introduction to Modeling and Simulation](Discrete Event Simulation Using Extendsim 8/Introduction_to_Modeling_and_Simulation.html)
 - [2.Step by Step Discrete Event Simulation](Discrete Event Simulation Using Extendsim 8/Step_by_Step_Discrete_Event_Simulation.html)
 
@@ -43,15 +48,16 @@ Syntax highlighted code block
 - [2.Topical Guides](Discrete Event Simulation Using SimPy/SimPy_Topical_Guides.html)
 - [3.Example: Bank](Discrete Event Simulation Using SimPy/SimPy_Example_Bank.html)
 - [4.Example: Movies](Discrete Event Simulation Using SimPy/SimPy_Example_Movies.html)
+-->
 
 ### Python Data Analytics
 - [1.An Introduction to Data Analysis](Python Data Analytics/An_Introduction_to_Data_Analysis.html)
 - [2.Introduction to the Python World](Python Data Analytics/Introduction_to_the_Python_World.html)
 
-### Learning Spark Lightning Fast Data Analysis
+<!--### Learning Spark Lightning Fast Data Analysis
 - [Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark)](Learning Spark Lightning Fast Data Analysis (Introduction to Data Analysis with Spark).html)
 - [Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started)](Learning Spark Lightning Fast Data Analysis (Downloading Spark and Getting Started).html)
-- [Learning Spark Lightning Fast Data Analysis (Programming with RDDs)](Learning Spark Lightning Fast Data Analysis (Programming with RDDs).html)
+- [Learning Spark Lightning Fast Data Analysis (Programming with RDDs)](Learning Spark Lightning Fast Data Analysis (Programming with RDDs).html)-->
 
 <!--### Data Science: Python for Data Science and Machine Learning Bootcamp
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Python Crash Course)](01-Python Crash Course.html)
@@ -61,10 +67,10 @@ Syntax highlighted code block
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Operations)](03-Numpy Operations.html)
 - [Udemy: Python for Data Science and Machine Learning Bootcamp (Numpy Exercises)](04-Numpy Exercises.html)-->
 
-### Beginning Apache Spark Using Azure Databricks
-- [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databricks/Introduction_To_Large_Scale_Data_Analytics.html)
+<!--### Beginning Apache Spark Using Azure Databricks
+- [1.Introduction to Large-Scale Data Analytics](Beginning Apache Spark Using Azure Databricks/Introduction_To_Large_Scale_Data_Analytics.html)-->
 
-### Machine Learning with PySpark
+<!--### Machine Learning with PySpark
 - [1.Evolution of Data](Machine Learning with Spark/Evolution_of_Data.html)
 - [2.Introduction to Machine Learning](Machine Learning with Spark/Introduction_to_Machine_Learning.html)
 - [3.Data Processing](Machine Learning with Spark/Data_Processing.html)
@@ -73,16 +79,11 @@ Syntax highlighted code block
 - [6.Random Forests](Machine Learning with Spark/Random_Forests.html)
 - [7.Recommender Systems](Machine Learning with Spark/Recommender_Systems.html)
 - [8.Clustering](Machine Learning with Spark/Clustering.html)
-- [9.Natural Language Processing](Machine Learning with Spark/Natural_Language_Processing.html)
+- [9.Natural Language Processing](Machine Learning with Spark/Natural_Language_Processing.html)-->
 
-### Beginning MLOps with MLFlow
+<!--### Beginning MLOps with MLFlow
 - [Beginning MLOPs with MLFlow (Getting Started Data Analysis)](Beginning MLOps with MLFlow (Getting Started Data Analysis).html)
-- [Beginning MLOPs with MLFlow (Building Models)](Beginning MLOps with MLFlow (Building Models).html)
-
-### Mathematical Programming (Lancaster Univeristy)
-- [1.Syllabus and Introduction](Mathematical Programming (Lancaster University)/Syllabus_and_Introduction.html)
-- [2.LINDO Tutorial](Mathematical Programming (Lancaster University)/LINDO_Tutorial.html)
-- [3.Mathematical Programming Using LINDO](Mathematical Programming (Lancaster University)/Mathematical_Programming_Using_LINDO.html)
+- [Beginning MLOPs with MLFlow (Building Models)](Beginning MLOps with MLFlow (Building Models).html)-->
 
 <!--### Optimization: Metaheuristics (Databricks)
 - [Parallel Simulated Annealing MASTER (Udemy Optimizing Travelling Salesman and Vehicle Routing Problems)](PARALLEL_SA_MASTER.html)
