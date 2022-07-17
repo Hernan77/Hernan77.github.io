@@ -33,7 +33,7 @@ Syntax highlighted code block
 ```
 -->
 ### Beginning Apache Spark Using Azure Databricks
-- [1.Chapters 1 to 4](Beginning_Apache_Spark_Using_Azure_Databricks_(Chapters_1_to_4).html)
+- [1. Chapters 1 to 4](Beginning_Apache_Spark_Using_Azure_Databricks_(Chapters_1_to_4).html)
 
 <!--### Lancaster University Mathematical Programming
 - [1.Intrduction and Problem Formulation](Lancaster University Mathematical Programming/Introduction_and_Problem_Formulation.html)-->
