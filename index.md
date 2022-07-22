@@ -37,10 +37,10 @@ Syntax highlighted code block
 
 ### SimPy Discrete Event Simulation
 - [1. SimPy: Overview](SIMPY_DISCRETE_EVENT_SIMULATION/SimPy_Overview.html)
-- [1. SimPy: Examples](SIMPY_DISCRETE_EVENT_SIMULATION/SimPy_Examples.html)
-- [1. SimPy: Routing Scenario 1](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_1.html)
-- [1. SimPy: Routing Scenario 2](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_2.html)
-- [1. SimPy: Routing Scenario 3](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_3.html)
+- [2. SimPy: Examples](SIMPY_DISCRETE_EVENT_SIMULATION/SimPy_Examples.html)
+- [3. SimPy: Routing Scenario 1](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_1.html)
+- [4. SimPy: Routing Scenario 2](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_2.html)
+- [5. SimPy: Routing Scenario 3](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_3.html)
 
 <!--### Lancaster University Mathematical Programming
 - [1.Intrduction and Problem Formulation](Lancaster University Mathematical Programming/Introduction_and_Problem_Formulation.html)-->
