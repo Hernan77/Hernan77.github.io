@@ -35,6 +35,13 @@ Syntax highlighted code block
 ### Beginning Apache Spark Using Azure Databricks
 - [1. Chapters 1 to 4](BEGINNING_APACHE_SPARK_USING_AZURE_DATABRICKS/Beginning_Apache_Spark_Using_Azure_Databricks_(Chapters_1_to_4).html)
 
+### SimPy Discrete Event Simulation
+- [1. SimPy: Overview](SimPy_Overview.html)
+- [1. SimPy: Examples](SimPy_Examples.html)
+- [1. SimPy: Routing Scenario 1](Routing_Scenario_1.html)
+- [1. SimPy: Routing Scenario 2](Routing_Scenario_2.html)
+- [1. SimPy: Routing Scenario 3](Routing_Scenario_3.html)
+
 <!--### Lancaster University Mathematical Programming
 - [1.Intrduction and Problem Formulation](Lancaster University Mathematical Programming/Introduction_and_Problem_Formulation.html)-->
 
