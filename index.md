@@ -32,8 +32,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
-### Beginning Apache Spark Using Azure Databricks
-- [1. Chapters 1 to 4](BEGINNING_APACHE_SPARK_USING_AZURE_DATABRICKS/Beginning_Apache_Spark_Using_Azure_Databricks_(Chapters_1_to_4).html)
+### DATABRICKS
+- [1. Introduction to Large-Scale Data Analytics](DATABRICKS/Introduction_to_Large_Scale_Data_Analytics.html)
 
 ### SimPy Discrete Event Simulation
 - [1. SimPy: Overview](SIMPY_DISCRETE_EVENT_SIMULATION/SimPy_Overview.html)
