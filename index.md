@@ -32,6 +32,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
+### LEARN PYTHON 3 THE HARD WAY
+- [1. Exercise 1](LEARN_PYTHON_3_THE_HARD_WAY/LEARN_PYTHON_THE_HARD_WAY_EXERCISE_1.html)
+
 ### DATABRICKS
 - [1. Introduction to Large-Scale Data Analytics](DATABRICKS/Introduction_to_Large_Scale_Data_Analytics.html)
 
