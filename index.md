@@ -57,8 +57,8 @@ Syntax highlighted code block
 - [4. SimPy: Routing Scenario 2](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_2.html)
 - [5. SimPy: Routing Scenario 3](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_3.html)
 
-### My Drinks and Food
-Absinthe Blog by ALANDIA: https://www.alandia.de/absinthe-blog/
+### MY DRINKS AND FOOD
+<a href="https://www.alandia.de/absinthe-blog/">Absinthe Blog by ALANDIA</a>
 
 <!--### Lancaster University Mathematical Programming
 - [1.Intrduction and Problem Formulation](Lancaster University Mathematical Programming/Introduction_and_Problem_Formulation.html)-->
