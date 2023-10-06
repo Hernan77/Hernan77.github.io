@@ -46,6 +46,9 @@ Syntax highlighted code block
 
 ### MACHINE LEARNING WITH SPARK
 - [1. EVOLUTION OF DATA](MACHINE_LEARNING_WITH_SPARK/EVOLUTION_OF_DATA.html)
+
+### DEEP LEARNING
+- [1. DEEP_Q_LEARNING_NETWORKS (LIVE LESSONS)](DEEP_Q_LEARNING_NETWORKS.html)
   
 ### DATABRICKS
 - [1. Introduction to Large-Scale Data Analytics](DATABRICKS/Introduction_to_Large_Scale_Data_Analytics.html)
