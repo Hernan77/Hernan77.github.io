@@ -60,6 +60,9 @@ Syntax highlighted code block
 - [4. SimPy: Routing Scenario 2](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_2.html)
 - [5. SimPy: Routing Scenario 3](SIMPY_DISCRETE_EVENT_SIMULATION/Routing_Scenario_3.html)
 
+### GOOD LIST
+- [BEGINNING APACHE SPARK USING DATABRICKS](BEGINNING_APACHE_SPARK_USING_DATABRICKS/Beginning_Apache_Spark_Using_Databricks.html)
+
 ### MY DRINKS AND FOOD
 <a href="https://www.alandia.de/absinthe-blog/">Absinthe Blog by ALANDIA</a>
 
