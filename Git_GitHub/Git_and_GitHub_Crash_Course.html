@@ -7518,7 +7518,7 @@ a.anchor-link {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h3 id="Git-and-GitHub"><strong>Git and GitHub</strong><a class="anchor-link" href="#Git-and-GitHub">¶</a></h3><p>Based on: Git and GitHub Crash Course by Greg Lim <br/>
-Created by Hernan Chavez </p>
+<strong>Created by Hernan Chavez</strong> </p>
 </div>
 </div>
 </div>
@@ -7535,12 +7535,9 @@ Created by Hernan Chavez </p>
 <figcaption>Fig 1. Working Directory</figcaption>
 </figure>
 <br/>
-<p>Now, let's werite something inside these files</p>
-<p>If I want Git to start tracking changes inside the <strong>git example</strong> folder, in the terminal type: <em>git init</em></p>
-<p>When we run <em>git init</em>, Git shows a message <strong>"Initialized empty Git repository"</strong>. That means Git has now started tracking this folder.</p>
-<p>We can know that by typing: <em>ls -la</em></p>
-<p>We can see a hidden directory named <strong>.git</strong>.</p>
-<p><em>ls -la</em> lets us view hidden files and folders in the system.</p>
+<p>Now, let's write something inside these files.</p>
+<p>If I want Git to start tracking changes inside the <strong>git example</strong> folder, in the terminal type: <em>git init</em>. When we run <em>git init</em>, Git shows a message <strong>Initialized empty Git repository</strong>. That means Git has now started tracking this folder.</p>
+<p>We can know that by typing: <em>ls -la</em>. We can see a hidden directory named <strong>.git</strong>. <em>ls -la</em> lets us view hidden files and folders in the system.</p>
 <figure>
 <img alt="Local Repository" height="5000" src="images/Git_and_Github_2.png" title="Local Repository" width="5000"/>
 <figcaption>Fig 2. Local Repository</figcaption>
@@ -7597,8 +7594,8 @@ Created by Hernan Chavez </p>
 <figcaption>Fig 8. GitHub Repositor</figcaption>
 </figure>
 <br/>
-<p>The we run the following to pull the GitHub repository to our local machine.</p>
-<p>A new folder <em><strong>git-cloud-examples</strong></em> is created. If you want to see the hidden file, run <em>ls -a</em></p>
+<p>Then we run the following to pull the GitHub repository to our local machine.</p>
+<p>A new folder <em><strong>git-cloud-examples</strong></em> is created. If you want to see the hidden file, run <em>ls -a</em>.</p>
 <figure>
 <img alt="Clone Repository" height="5000" src="images/Git_and_Github_9.png" title="Clone Repository" width="5000"/>
 <figcaption>Fig 9. Clone Repository</figcaption>
@@ -7613,8 +7610,7 @@ Created by Hernan Chavez </p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Detecting-Changes-with-Git-Status">Detecting Changes with Git Status<a class="anchor-link" href="#Detecting-Changes-with-Git-Status">¶</a></h2><p>First, we add "world" to the text in <em>hello.txt</em>, then we check for modifications by using: <em>git status</em>.</p>
-<p>We do something similar for <em>notes.txt</em> by adding the text <em>for me</em>.</p>
+<h2 id="Detecting-Changes-with-Git-Status">Detecting Changes with Git Status<a class="anchor-link" href="#Detecting-Changes-with-Git-Status">¶</a></h2><p>First, we add "world" to the text in <em>hello.txt</em>, then we check for modifications by using: <em>git status</em>. We do something similar for <em>notes.txt</em> by adding the text <em>for me</em>.</p>
 <figure>
 <img alt="Change Detection" height="5000" src="images/Git_and_Github_10.png" title="Change Detection" width="5000"/>
 <figcaption>Fig 10. Change Detection</figcaption>
@@ -7638,89 +7634,77 @@ Created by Hernan Chavez </p>
 <figcaption>Fig 11. Untracked Changes</figcaption>
 </figure>
 <br/>
-
-The old files came from the remote repository we cloned earlier, so Git already know about them. But since ***basics*** is newly created, Git doesn't recognize it yet.
-
-<p>If we want to mode everything to the staging area at one, we can use: <em>"git add --all"</em> or <em>"git add -A"</em>.</p>
+<p>The old files came from the remote repository we cloned earlier, so Git already knows about them. But since <em><strong>basics</strong></em> is newly created, Git doesn't recognize it yet.</p>
+<p>If we want to mode everything to the staging area at one, we can use: <em>git add --all</em> or <em>git add -A</em>.</p>
 <figure>
 <img alt="Stage Changes" height="5000" src="images/Git_and_Github_12.png" title="Stage Changes" width="5000"/>
 <figcaption>Fig 12. Stage Changes</figcaption>
 </figure>
 <br/>
-
-You'll see that Git has staged everything i.e., all the chasnges we made are now ready to be commited.
-
-<p>Now suppose we want to go back to the previous state -that is, remove everything from staging area and return the changes to the working directory, run: <em>"git reset"</em></p>
+<p>You'll see that Git has staged everything i.e., all the chasnges we made are now ready to be commited.</p>
+<p>Now suppose we want to go back to the previous state -that is, remove everything from staging area and return the changes to the working directory, run: <em>git reset</em></p>
 <p>As soon as we run this command, everything goes back to the way it was before.</p>
-<p>In the terminal, you'll see amessage saying <em>"Unstaged changes after reset"</em>.</p>
-<p>If we check the status again, everything is back to the earlier state like before.</p>
+<p>In the terminal, you'll see amessage saying <em>"Unstaged changes after reset"</em>. If we check the status again, everything is back to the earlier state like before.</p>
 <figure>
 <img alt="Reset Changes" height="5000" src="images/Git_and_Github_13.png" title="Reset Changes" width="5000"/>
 <figcaption>Fig 13. Reset Changes</figcaption>
 </figure>
 <br/>
-<p>Now let's run: <em>"git add -A"</em></p>
-<p>Check the status. You'll set that Git has staged everything again like before.</p>
-<p>That means all the changes we made are ready to be commited.</p>
+<p>Now let's run: <em>git add -A</em>. Check the status. You'll set that Git has staged everything again like before. That means all the changes we made are ready to be commited.</p>
 <figure>
 <img alt="Staged Changes" height="5000" src="images/Git_and_Github_14.png" title="Staged Changes" width="5000"/>
 <figcaption>Fig 14. Staged Changes</figcaption>
 </figure>
 <br/>
-<p>Now run <em>"git reset"</em> again to unstage everything and bring all the changes back to the working directory. Then check the status. Everything should be back to the unstaged state.</p>
+<p>Now, run <em>git reset</em> again to unstage everything and bring all the changes back to the working directory. Then check the status. Everything should be back to the unstaged state.</p>
 <figure>
 <img alt="Reset Again" height="5000" src="images/Git_and_Github_15.png" title="Reset Again" width="5000"/>
 <figcaption>Fig 15. Reset Again</figcaption>
 </figure>
 <br/>
-<p>Now, in this tate, run: <em>"git add."</em></p>
-<p>At first, it may seem like it does the same thing as <em>"git add -all"</em> because everithing appears to be staged.</p>
+<p>Now, in this tate, run: <em>git add.</em>. At first, it may seem like it does the same thing as <em>git add -all</em> because everithing appears to be staged.</p>
 <figure>
 <img alt="Git add ." height="5000" src="images/Git_and_Github_16.png" title="Git add ." width="5000"/>
 <figcaption>Fig 16. Git add .</figcaption>
 </figure>
 <br/>
-<p>But that is not always the case. Let's run <em>"git reset"</em> again to return everything to the previous state, and we'll see an importnat difference.</p>
-<p>After <em>"git reset"</em>, all files are back in the working directory. Next, go inside the <strong>basics</strong> directory and run: <em>"git add ."</em>. Run "<em>git status"</em> and notice that Git has only staged <em>example.txt</em> inside <strong>basics</strong>.</p>
+<p>But that is not always the case. Let's run <em>git reset</em> again to return everything to the previous state, and we'll see an importnat difference. After <em>git reset</em>, all files are back in the working directory. Next, go inside the <strong>basics</strong> directory and run: <em>git add .</em>. Run "git status* and notice that Git has only staged <em>example.txt</em> inside <strong>basics</strong>.</p>
 <p>The other files in the root folder are still unstaged.</p>
 <figure>
 <img alt="Git add . Inside Basics" height="5000" src="images/Git_and_Github_17.png" title="Git add . Inside Basics" width="5000"/>
 <figcaption>Fig 17. Git add . Inside Basics</figcaption>
 </figure>
 <br/>
-<p>Also, keep in mind that if there were a subfolder inside <strong>basics</strong>, suing the dot would still include the files inside that subfolder as well. In simple terms, the dot represents the current directory <strong>and everything inside it</strong>.</p>
-<p>So now we've seen three variations of the <em>"git add"</em> command: 
+<p>Also, keep in mind that if there were a subfolder inside <strong>basics</strong>, using the dot would still include the files inside that subfolder as well. In simple terms, the dot represents the current directory <strong>and everything inside it</strong>.</p>
+<p>So now we've seen three variations of the <em>git add</em> command: 
 <em>git add --all</em> 
 <em>git add -A</em> 
 <em>git add .</em> </p>
-<p>Now run the <em>"git reset"</em> to bring everythin back to the previous state again.</p>
-<p>And go back to the root folder: <em>"cd .."</em>.</p>
-<p>Then stage all files with: <em>"git add --all"</em>.</p>
-<p>Now, all our files are staged and ready to be commited.</p>
-<p>Manually delete the <em>"notes.txt"</em> file and create a new one named <em>"minutes.txt"</em>, writing <em>"minutes"</em> inside it.</p>
+<p>Now, run the <em>git reset</em> to bring everything back to the previous state again. And go back to the root folder: <em>cd ..</em>.</p>
+<p>Then stage all files with: <em>git add --all</em>. Now, all our files are staged and ready to be commited.</p>
+<p>Manually delete the <em>notes.txt</em> file and create a new one named <em>minutes.txt</em>, writing <em>minutes</em> inside it.</p>
 <figure>
 <img alt="Commited and Not Staged for Commit" height="5000" src="images/Git_and_Github_18.png" title="Commited and Not Staged for Commit" width="5000"/>
 <figcaption>Fig 18. Commited and Not Staged for Commit</figcaption>
 </figure>
 <br/>
-<p>I've deleted one file and added a new one. Git shows that under <em>"Changes to be commited"</em>, the previously staged files are still listed. But under <em>"Changes not staged for commit"</em>, it now lists <em>"notes.txt"</em> as deleted and <em>"minutes.txt"</em> as untracked.</p>
-<p>Now run: <em>"git add \</em>"*.</p>
-<p>and then check the status. You'll notice that Git has staged the newly created <em>"minutes.txt"</em> file, but it has <strong>not</strong> staged the deleted <em>"notes.txt"</em> file.</p>
+<p>I've deleted one file and added a new one. Git shows that under <em>Changes to be commited</em>, the previously staged files are still listed. But under <em>Changes not staged for commit</em>, it now lists <em>notes.txt</em> as deleted and <em>minutes.txt</em> as untracked.</p>
+<p>Now run: <em>git add *</em>. Then check the status. You'll notice that Git has staged the newly created <em>minutes.txt</em> file, but it has <strong>not</strong> staged the deleted <em>notes.txt</em> file.</p>
 <figure>
 <img alt="git add *" height="5000" src="images/Git_and_Github_19.png" title="git add *" width="5000"/>
 <figcaption>Fig 19. git add *</figcaption>
 </figure>
 <br/>
-<p>This is an important detail, <em>"git add \</em>"* stages <strong>new and modified</strong> files, but it does <strong>not</strong> stage deleted giles. In other words, deleted files are ignored by this command.</p>
-<p>That'sd the key difference between using <em>"\</em>"* and using <em>"."</em>, or <em>"-A"</em> with <em>"git add"</em>. The star (*) stages all visible files, but it does not include deletions.</p>
-<p>Now let's return to the previous state again by typing: <em>"git reset"</em>.</p>
-<p>Now if you want to stage only a specific file --for example, <em>"hello.txt"</em>, which has been modified-- you can do that by typing: <em>"git add hello.txt"</em>.</p>
+<p>This is an important detail, <em>git add *</em> stages <strong>new and modified</strong> files, but it does <strong>not</strong> stage deleted giles. In other words, deleted files are ignored by this command.</p>
+<p>That'sd the key difference between using <em>*</em> and using <em>.</em>, or <em>-A</em> with <em>git add</em>. The star (*) stages all visible files, but it does not include deletions.</p>
+<p>Now, let's return to the previous state again by typing: <em>git reset</em>.</p>
+<p>Now, if you want to stage only a specific file --for example, <em>hello.txt</em>, which has been modified-- you can do that by typing: <em>git add hello.txt</em>.</p>
 <figure>
 <img alt="Stage an Specific File" height="5000" src="images/Git_and_Github_20.png" title="Stage an Specific File" width="5000"/>
 <figcaption>Fig 20. Stage an Specific File</figcaption>
 </figure>
 <br/>
-<p>You can also stage a file inside a folder, such as inside <strong>basics</strong> for example: <em>"git add bsics/example.txt"</em></p>
+<p>You can also stage a file inside a folder, such as inside <strong>basics</strong> for example: <em>git add bsics/example.txt</em></p>
 <p>Let's try staging our delete of <em>notes.txt</em> by running: <em>git add notes.txt</em></p>
 <p>If we check that status using, we'll see that only <em>notes.txt</em> has been staged.</p>
 <figure>
@@ -7730,14 +7714,14 @@ You'll see that Git has staged everything i.e., all the chasnges we made are now
 <br/>
 <p>That's how we stage individual files by specifying their names.</p>
 <p>Now let's return everything to the previous <strong>unstaged</strong> state by running: <em>git reset</em></p>
-<p>We can also stage files by their extension. For example, to stage all <em>.txt</em> file, we write: <em>git add *.txt</em></p>
+<p>We can also stage files by their extension. For example, to stage all <em>.txt</em> file, we write: <em>git add \</em>.txt*</p>
 <p>This tages all <em>.txt</em> files in the <strong>current directory</strong>. Note that it won't include deleted files or files inside subfolders.</p>
 <figure>
 <img alt="Stage Files by Extension" height="5000" src="images/Git_and_Github_22.png" title="Stage Files by Extension" width="5000"/>
 <figcaption>Fig 22. Stage Files by Extension</figcaption>
 </figure>
 <br/>
-<p>If we want to stage everythin at once, the best and simplest practice is to go to the <strong>root directory</strong> and type: <em>git add .</em></p>
+<p>If we want to stage everything at once, the best and simplest practice is to go to the <strong>root directory</strong> and type: <em>git add .</em></p>
 <p>After doing that, all changes are staged together.</p>
 <p>If we now check the status, we'll see everything has been staged successfully. That means all our changes have been moved from the <strong>working directory</strong> to the <strong>staging area</strong>.</p>
 <figure>
